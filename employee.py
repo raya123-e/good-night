@@ -8,7 +8,7 @@ class employee:
      self.salary=salary
 
 
-              def info(self):
+    def info(self):
        print(self.position,"is earning",self.salary)
 
 employee1= employee("John","CEO",50000)
